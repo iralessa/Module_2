@@ -7,7 +7,8 @@ def test():
     print(a, b)
 print ("1-ая функция:")
 test()
-
+#функция c параметрами
+#объявление функции
 def test2(a2, b2, c2):
     print(a2, b2, c2)
 print("2-ая функция")
