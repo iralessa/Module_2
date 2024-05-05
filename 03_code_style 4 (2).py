@@ -135,8 +135,8 @@ if O_int > 0:
 
 # автоматическое переименование в PyCharm и подсказки - вам не нужно набирать длинные названия переменных
 
-ss = ['cat', 'wolf', 'ostrich']
-if 'lion' in ss:
+list_animals = ['cat', 'wolf', 'ostrich']
+if 'lion' in list_animals:
     print('Wow!')
 else:
     print('Конец')
